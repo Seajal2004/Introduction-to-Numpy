@@ -1,2 +1,2 @@
-# Numpy_intro
+# Numpy
 This repository contains Introduction to Numpy .
